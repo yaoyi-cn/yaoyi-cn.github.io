@@ -1,0 +1,12 @@
+##----------idea----------
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# osx
+*~
+.DS_Store
+gradle.properties
+*.gh
+.vscode
