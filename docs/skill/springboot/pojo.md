@@ -29,6 +29,6 @@ DTO 通常用于不同服务或服务不同分层之间的数据传输。DTO 与
 
 用于表示数据库中的一条记录映射成的 java 对象。PO 仅仅用于表示数据，没有任何数据操作。通常遵守 Java Bean 的规范，拥有 getter/setter 方法。
 
-![POJO应用于程序中的样例图](../../../images/pojo.png)
+![POJO应用于程序中的样例图](../../../images/skill/pojo.png)
 
 
