@@ -9,4 +9,4 @@
 1. [注解说明](docs/skill/springboot/annotation.md)
 
 ### 系统优化
-1. [Gzip资源压缩与配置](docs/skill/optimization/gzip.md)
+1. [Gzip 资源压缩与配置](docs/skill/optimization/gzip.md)
